@@ -15,8 +15,3 @@ What you should learn from this project:
 
 ### [2. Port forwarding](./100-port_forwarding)
 * Firewalls can not only filter requests, they can also forward them.
-
----
-
-## Author
-* **Geoffrey Zoref** - [Gzoref](https://github.com/Gzoref)
